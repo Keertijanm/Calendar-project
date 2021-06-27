@@ -1,8 +1,8 @@
 # Calendar-project
-mini projects   using javascript 
+Created a calendar using javascript 
 The program uses Date() function to build a  calendar with  JavaScript and HTML. 
 Here's the final implementation of it - 
-![] .png)
+![](calendar.png)
 
 
 **Explanation-** When the program is started, the function *showCalendar()* is with arguments *currentMonth* and *currentYear*. 
@@ -18,7 +18,7 @@ showCalendar(month, year) function which takes in two parameters, month and year
 Get the starting day of the month, we’ll use -
 
     let firstDay = (new Date(year, month)).getDay();
-2. Next, get the number of days in that month. We can achieve this too using date function.
+2. Next, get the number of days in that month. for this using date function.
 
 
     let daysInMonth = 32 - new Date(year, month, 32).getDate();
