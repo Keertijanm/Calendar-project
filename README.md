@@ -2,7 +2,7 @@
 mini projects   using javascript 
 The program uses Date() function to build a  calendar with  JavaScript and HTML. 
 Here's the final implementation of it - 
-![](calendar.png)
+![] .png)
 
 
 **Explanation-** When the program is started, the function *showCalendar()* is with arguments *currentMonth* and *currentYear*. 
